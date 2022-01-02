@@ -1,2 +1,3 @@
 # Cookie_Cats_AB_Test
-A data set from Kaggle on two game version of a mobile game called Cookie Cats.  We compare two different version and see which results in a higher user retention.
+A data set from Kaggle. We compare two different versions of the game Cookie Cats and see which results in a higher user retention. One version has a gate at level 30 and the other has a gate at level 40.  These gates require the user to either wait a certain amount of time, reach out to Facebook friends to shorten the wait period, or initiate an in-app purchase to skip the wait time all together. The data considers two different points of retention, after one day and after seven days.
+We find that having a gate at level 30 has a significant effect on retention seven days after downloading the game.
